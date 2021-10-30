@@ -1,7 +1,7 @@
-package main
+package main1
 
 import "fmt"
 
 func main() {
-	fmt.Println("text")
+	fmt.Println("we23r23r")
 }
