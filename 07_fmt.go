@@ -12,5 +12,4 @@ func main() {
 	fmt.Printf("%x\n", i) //%x:十六进制
 	s := "www"
 	fmt.Printf("%s\n", s) // %s：字符串
-	fmt.Println("")
 }
